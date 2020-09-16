@@ -56,9 +56,6 @@ const removeTodo = (index) => {
       <TodoForm addTodo={addTodo} />
       </div> 
     </div>   
-      // <TodoItem todo="Finish plus project." />
-      // <TodoItem todo="Meal prep." />
-      // <TodoItem todo="Sleep." />
   );
 }
 
